@@ -1,4 +1,7 @@
 #  NLP-task-user-reviews
+
+This project is used to perform aspect-based sentiment analysis using public dataset from Amazon user review. It helps to extract user opinion according to different topics of user review.
+
  **1. Data preprocessing** <br>
 Lowercase all the words in the review text; Remove numbers such as &, >, 3; Remove the punctuation, such as, : ,;{}, [], &, >; Remove the stop words, such as “a”, “the”, “it”, “about”; Tokenize the words; Lemmatize to the words <br>
 
